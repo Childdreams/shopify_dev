@@ -1,1 +1,41 @@
-{"sections":{"banner":{"type":"main-collection-banner","settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"background-1"}},"16824133734333d0da":{"type":"apps","blocks":{"b4320a17-04f2-4638-83f3-454fdd3a6ebe":{"type":"shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363","settings":{"show_catroot":true,"link_catroot":"\/","text_catroot":"Home","show_tags":true,"show_finalbread_as_textonly":false,"separator_char_code":"#47;","sep_plus_class":"breadcrumb__sep_plus5","insert_jsonld":true,"insert_shortlinkfix":false,"prod_ignore_referrer":false,"prod_multicat_sel":"first","link_catall":"\/collections\/all","text_catall":"All Products","show_product_title":true,"truncate_limit":0}}},"block_order":["b4320a17-04f2-4638-83f3-454fdd3a6ebe"],"settings":{"include_margins":true}},"product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":16,"columns_desktop":3,"image_ratio":"portrait","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"enable_filtering":true,"filter_type":"drawer","enable_sorting":true,"columns_mobile":"2","padding_top":36,"padding_bottom":36}}},"order":["banner","16824133734333d0da","product-grid"]}
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "16824133734333d0da": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "16824133734333d0da",
+    "product-grid"
+  ]
+}
